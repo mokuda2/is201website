@@ -1,0 +1,36 @@
+/* Michael Okuda */
+
+.homepage {
+    color: darkblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.aboutmetitle {
+    color: navy;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.imgContainer {
+    float: left;
+    width: 50%;
+}
+
+.background {
+    background-color: rgb(131, 191, 240);
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.subsectionFontSize {
+    font-size: 20px;
+}
+
+.italics {
+    font-style: italic;
+}
